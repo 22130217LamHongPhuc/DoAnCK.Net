@@ -19,9 +19,9 @@ namespace API.Net.ViewModel
 
             public int fee { get; set; } = 0;
 
-             public int discount { get; set; } = 0; // Giả sử 1 là trạng thái mặc định là "Chờ xác nhận"
+             public int discount { get; set; } = 0;
 
-        // Giả sử 1 là trạng thái mặc định là "Chờ xác nhận"
+       
 
         public List<OrderDetailModel> Items { get; set; } = new List<OrderDetailModel>();
 

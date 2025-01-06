@@ -44,7 +44,7 @@ namespace API.Net.Controllers
                     {
                         _context.OrderDetails.Add(new OrderDetail
                         {
-                            OrderId = order.OrderId, // Đã có OrderId từ database sau khi lưu Order
+                            OrderId = order.OrderId, 
                             ProductId = item.ProductId,
                             Quantity = item.Quantity,
                             TotalPrice = item.TotalPrice
