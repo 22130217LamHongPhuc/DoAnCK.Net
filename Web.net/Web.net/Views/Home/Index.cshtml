@@ -1,0 +1,321 @@
+﻿@using API.Net.Models
+@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    List<Product> productDate = (List<Product>)ViewBag.ProductsDate;
+    List<Product> productsPrice = (List<Product>)ViewBag.ProductsPrice;
+
+    List<Product> productsBestSeller = (List<Product>)ViewBag.ProductsBestSeller;
+
+
+
+}
+
+<div class="body_home">
+
+    <div class="main_container">
+
+
+
+        <div class="block_top" id="block_top">
+
+            <div class="top_slide">
+                <div class="slides">
+
+                    <img class="slide" src="./assets/images/slide/slide_3_img.jpeg">
+                    <img class="slide"
+                         src="https://theme.hstatic.net/200000796751/1001266995/14/slide_3_img.jpg?v=69">
+                    <img class="slide"
+                         src="https://theme.hstatic.net/200000796751/1001266995/14/slide_2_img.jpg?v=66">
+
+                    <img class="slide" src="./assets/images/slide/slide_1_img.jpeg">
+
+
+
+                </div>
+                <div class="close_slides" onclick="closeSlider()">
+                    <i class="fa-regular fa-circle-xmark"></i>
+                </div>
+            </div>
+
+        </div>
+        <div class="block_category bg-while">
+            <div class="category_img img_top_left">
+                <img src="https://cdnv2.tgdd.vn/webmwg/2024/ContentMwg/images/noel/2024/dmx/icon-promo-l.png"
+                     alt="">
+            </div>
+
+
+            <a class="category_item" href="productSearch.html">
+                <img src="./assets/images/category/banlamviec.png" alt="">
+                <p>Bàn làm việc</p>
+            </a>
+           
+
+
+            <div class="category_img img_right_bottom">
+                <img src="https://cdnv2.tgdd.vn/webmwg/2024/ContentMwg/images/noel/2024/dmx/icon-promo-r.png"
+                     alt="">
+            </div>
+
+
+        </div>
+
+        <div class="block_sale">
+            <div class="sale_title">
+                <div class="title-alpha">
+                    <img src="https://cdn2.cellphones.com.vn/x/media/catalog/product/b/f/bf2024__title_flashsale.png"
+                         alt="banner">
+                </div>
+
+
+            </div>
+            <div class="product_list">
+                @foreach (var pro in productDate)
+                {
+                    <div class="product_card" >
+                        <div class="card_image">
+                            <img src="@pro.Thumbnail" />
+                        </div>
+                        <div class="card_tilte">
+                            <h4>@pro.Name</h4>
+                        </div>
+
+                        <p class="card_price-show">@pro.getPriceAfterDiscount() đ</p>
+
+                        <div class="card_price-discount">
+                            <p class="card_price-through">@pro.Price đ</p>
+                            <b>@pro.DiscountDefault %</b>
+                        </div>
+
+
+                        <div class="card_bottom">
+                            <div class="card_vote">
+                                <i class="fa-solid fa-star"></i>
+                                <p class="magin-right">4.2</p>
+                                <p>(
+                                <p>187</p>)</p>
+
+                            </div>
+                            <div class="card_add-cart" data-product-id="@pro.ProductId"
+                                 data-name="@pro.Name"
+                                 data-price="@pro.Price"
+                                 data-discount ="@pro.DiscountDefault"
+                                 data-thumbnail="@pro.Thumbnail"
+                                 data-quality="1">
+                                <i class="fa-solid fa-cart-arrow-down"></i>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                }
+
+
+            </div>
+            <div class="view-more">
+                <a href="productSearch.html">
+                    Xem tất cả sản phẩm <i class="fa-solid fa-chevron-right"></i>
+                </a>
+            </div>
+        </div>
+
+        <div class="block_product bg-while">
+            <div class="product_list_title">
+                <h3>Sản phẩm bán chạy nhất</h3>
+
+
+            </div>
+            <div class="product_list sale_list">
+                @foreach(var p in productsBestSeller)
+                {
+                    <div class="product_card" >
+                        <div class="card_image">
+                            <img src="@p.Thumbnail"
+                                 alt="product">
+                        </div>
+                        <div class="card_tilte">
+                            <h4>@p.Name</h4>
+                        </div>
+
+                        <p class="card_price-show">@p.getPriceAfterDiscount() đ</p>
+
+                        <div class="card_price-discount">
+                            <p class="card_price-through">@p.Price đ</p>
+                            <b>@p.DiscountDefault %</b>
+                        </div>
+
+
+                        <div class="card_bottom">
+                            <div class="card_vote">
+                                <i class="fa-solid fa-star"></i>
+                                <p class="magin-right">4.2</p>
+                                <p>(
+                                <p>@p.QuanlityStock</p>)</p>
+
+                            </div>
+                            <div class="card_add-cart">
+                                <i class="fa-solid fa-cart-arrow-down">
+
+                                </i>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                }
+
+
+            </div>
+            <div class="view-more">
+                <a href="productSearch.html">
+                    Xem tất cả sản phẩm <i class="fa-solid fa-chevron-right"></i>
+                </a>
+            </div>
+        </div>
+        <div class="block_product bg-while">
+            <div class="product_list_title">
+                <h3>Sản phẩm gia cao</h3>
+
+
+            </div>
+            <div class="product_list sale_list">
+                @foreach(var p in productsPrice)
+                {
+                    <div class="product_card">
+                        <div class="card_image">
+                            <img src="@p.Thumbnail"
+                                 alt="product">
+                        </div>
+                        <div class="card_tilte">
+                            <h4>@p.Name</h4>
+                        </div>
+
+                        <p class="card_price-show">@p.getPriceAfterDiscount() đ</p>
+
+                        <div class="card_price-discount">
+                            <p class="card_price-through">@p.Price đ</p>
+                            <b>@p.DiscountDefault %</b>
+                        </div>
+
+
+                        <div class="card_bottom">
+                            <div class="card_vote">
+                                <i class="fa-solid fa-star"></i>
+                                <p class="magin-right">4.2</p>
+                                <p>(
+                                <p>@p.QuanlityStock</p>)</p>
+
+                            </div>
+                            <div class="card_add-cart">
+                                <i class="fa-solid fa-cart-arrow-down">
+
+                                </i>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                }
+
+            </div>
+            <div class="view-more">
+                <a href="productDetail.html">Xem tất cả sản phẩm <i class="fa-solid fa-chevron-right"></i></a>
+            </div>
+        </div>
+        <!-- blog new  -->
+        <div class="news-section">
+            <div class="news-header">
+                <h2>Bài tin</h2>
+
+            </div>
+
+            <div class="news-cards">
+                <a class="news-card" href="article.html">
+                    <img src="https://i1-vnexpress.vnecdn.net/2024/11/13/z6027309623229-89967ba825da89e0e968b735ff875218-1731487237.jpg?w=500&h=300&q=100&dpr=1&fit=crop&s=vJZRx86-UU9Sk-ll5iF-tA"
+                         alt="Promo 1">
+                    <p>Những Xu Hướng Thiết Kế Nội Thất Đáng Chú Ý Năm 2025</p>
+                </a>
+                <a class="news-card" href="article.html">
+                    <img src="https://theme.hstatic.net/200000796751/1001266995/14/homebanner_1_img.jpg?v=52"
+                         alt="Promo 2">
+                    <p>Ngủ ngon say giấc cùng BAYA cùng chương trình khuyến mại đầu năm 2025</p>
+                </a>
+
+                <a class="news-card" href="article.html">
+                    <img src="https://i1-vnexpress.vnecdn.net/2024/11/13/z6027309623229-89967ba825da89e0e968b735ff875218-1731487237.jpg?w=500&h=300&q=100&dpr=1&fit=crop&s=vJZRx86-UU9Sk-ll5iF-tA"
+                         alt="Promo 1">
+                    <p>Những Xu Hướng Thiết Kế Nội Thất Đáng Chú Ý Năm 2025</p>
+                </a>
+                <a class="news-card" href="article.html">
+                    <img src="https://theme.hstatic.net/200000796751/1001266995/14/homebanner_1_img.jpg?v=52"
+                         alt="Promo 2">
+                    <p>Ngủ ngon say giấc cùng BAYA cùng chương trình khuyến mại đầu năm 2025</p>
+                </a>
+
+
+            </div>
+
+            <div class="view-more">
+                <a href="news.html">
+                    Xem thêm bài tin <i class="fa-solid fa-chevron-right"></i>
+                </a>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+
+
+@section Scripts {
+   <script>
+        console.log('start')
+
+
+        const buttons = document.querySelectorAll('.card_add-cart');
+
+
+        buttons.forEach(button => {
+            button.addEventListener('click', function () {
+                console.log('start1')
+
+                var productId = $(this).data("product-id");
+                var name = $(this).data("name");
+                var price = $(this).data("price");
+                var discount = $(this).data("discount");
+                var thumbnail = $(this).data("thumbnail");
+                var quantity = 1
+
+                console.log(productId + " " + name + " " + price + " " + discount + " " + thumbnail + " " + quantity);
+                $.ajax({
+                    url: '@Url.Action("AddToCart", "Cart")',
+                    type: 'POST',
+                    data: {
+                        productId: productId,
+                        name: name,
+                        price: price,
+                        discount: discount,
+                        thumbnail: thumbnail,
+                        quantity: quantity
+                    },
+                    success: function (response) {
+                        alert(response.message);
+                    },
+                    error: function () {
+                        alert('Đã có lỗi xảy ra!');
+                    }
+                });
+               
+            });
+        });
+
+   </script>
+}
+
+

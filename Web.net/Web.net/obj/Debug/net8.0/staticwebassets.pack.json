@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Web.net.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Web.net.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\layout\\backToTop.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout\\backToTop.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\layout\\basic.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout\\basic.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\layout\\breadcrumb.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout\\breadcrumb.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\layout\\footer.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\layout\\grid-layout.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout\\grid-layout.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\layout\\header.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\layout\\modal.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout\\modal.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\layout\\styleAdmin.css",
+      "PackagePath": "staticwebassets\\assets\\css\\layout\\styleAdmin.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\article.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\article.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\cart.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\contact.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\error.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\error.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\forgetPassword.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\forgetPassword.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\form_checkout.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\form_checkout.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\home.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\inforOrder.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\inforOrder.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\introduce.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\introduce.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\login.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\method_payment.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\method_payment.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\news.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\news.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\order-history.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\order-history.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\productDetail.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\productDetail.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\productSearch.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\productSearch.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\profile.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\profile.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\reviews.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\reviews.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\storeMap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\pages\\storeMap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\reset\\reset.css",
+      "PackagePath": "staticwebassets\\assets\\css\\reset\\reset.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-Black.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-Black.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-BlackItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-BlackItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-BlackItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-BlackItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-BoldItalicMT.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-BoldItalicMT.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-BoldItalicMT.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-BoldItalicMT.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-BoldMT.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-BoldMT.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-BoldMT.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-BoldMT.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-ItalicMT.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-ItalicMT.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-ItalicMT.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-ItalicMT.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-Lgt.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-Lgt.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-Lgt.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-Lgt.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-LgtItl.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-LgtItl.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-LgtItl.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-LgtItl.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-Mdm.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-Mdm.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-Mdm.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-Mdm.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-MdmItl.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-MdmItl.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\Arial-MdmItl.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\Arial-MdmItl.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialCE-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialCE-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialCE-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialCE-BoldItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialCE-Italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialCE-Italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialCE-Italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialCE-Italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialCE.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialCE.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialCE.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialCE.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialCEMTBlack-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialCEMTBlack-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialCEMTBlack-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialCEMTBlack-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialMT.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialMT.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialMT.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialMT.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialNarrow-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialNarrow-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialNarrow-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialNarrow-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialNarrow-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialNarrow-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialNarrow-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialNarrow-BoldItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialNarrow-Italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialNarrow-Italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialNarrow-Italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialNarrow-Italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialNarrow.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialNarrow.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Arial\\ArialNarrow.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Arial\\ArialNarrow.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-BlackItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-BlackItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-BlackItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-BlackItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-BoldItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-LightItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-LightItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-LightItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-LightItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-MediumItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-MediumItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-MediumItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-MediumItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Thin.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Thin.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-Thin.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-Thin.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-ThinItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-ThinItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\Roboto-ThinItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\Roboto-ThinItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-Bold.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-BoldItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-BoldItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-BoldItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-BoldItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-Italic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-Italic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-Italic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-Italic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-Light.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-LightItalic.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-LightItalic.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-LightItalic.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-LightItalic.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\fonts\\Roboto\\RobotoCondensed-Regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto\\RobotoCondensed-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\admin\\anhtin.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\anhtin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\admin\\avatarchair.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\admin\\avatarchair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\banner\\banner 1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner 1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\banner\\banner 2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner 2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\banner\\banner 3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\banner 3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\banner\\homebanner_1_img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\homebanner_1_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\banner\\hot-sale-cuoi-tuan-20-03-2024.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\hot-sale-cuoi-tuan-20-03-2024.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\banner\\hot-sale.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\hot-sale.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\category\\banlamviec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\category\\banlamviec.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\error\\error-404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\error-404.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\error\\error-500.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error\\error-500.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\favicons\\back-to-top-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\back-to-top-svgrepo-com.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\favicons\\discount.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\discount.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\favicons\\favicon_logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicons\\favicon_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\introduct\\commitment.png",
+      "PackagePath": "staticwebassets\\assets\\images\\introduct\\commitment.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\introduct\\contact.png",
+      "PackagePath": "staticwebassets\\assets\\images\\introduct\\contact.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\introduct\\cuahang1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\introduct\\cuahang1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\introduct\\cuahang2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\introduct\\cuahang2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\introduct\\cuahang3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\introduct\\cuahang3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\introduct\\cuahang4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\introduct\\cuahang4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\logo\\facebook-logo.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\facebook-logo.webp"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\logo\\google-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\google-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\logo\\logo-baya.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-baya.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\logo\\logo-final (3) (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-final (3) (1).png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\logo\\logo-final.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-final.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\product\\bawl.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\bawl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\product\\sofa.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\sofa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\slide\\slide_1_img.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide\\slide_1_img.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\slide\\slide_2_img (1).jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide\\slide_2_img (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\slide\\slide_2_img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide\\slide_2_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\slide\\slide_3_img.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\slide\\slide_3_img.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\user\\avatar.png",
+      "PackagePath": "staticwebassets\\assets\\images\\user\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\addcart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\addcart.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\cart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\check-valid-form-checkout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\check-valid-form-checkout.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\check-valid.js",
+      "PackagePath": "staticwebassets\\assets\\js\\check-valid.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\linkHeader.js",
+      "PackagePath": "staticwebassets\\assets\\js\\linkHeader.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\modal.js",
+      "PackagePath": "staticwebassets\\assets\\js\\modal.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\newFile.js",
+      "PackagePath": "staticwebassets\\assets\\js\\newFile.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\scriptAdmin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scriptAdmin.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\sliderBanner.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sliderBanner.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\sliderSearchPro.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sliderSearchPro.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Web.net.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Web.net.props",
+      "PackagePath": "build\\Web.net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Web.net.props",
+      "PackagePath": "buildMultiTargeting\\Web.net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Web.net.props",
+      "PackagePath": "buildTransitive\\Web.net.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

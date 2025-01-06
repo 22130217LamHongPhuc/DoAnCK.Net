@@ -1,0 +1,254 @@
+﻿@using System.Text.RegularExpressions
+@using API.Net.Models
+
+
+
+@{
+    ViewData["Title"] = "Infor Payment";
+
+    Cart cart = (Cart)ViewBag.Cart;
+
+
+    int size = cart == null ? 0 : cart.CartSize();
+    List<Voucher> vouchers = (List<Voucher>)ViewBag.Vouchers;
+
+
+    
+    
+}
+
+<div class="body_home">
+    <div class="main_container">
+
+        <div class="breadcrumb">
+            <ul>
+                <li> <a href="">Giỏ hàng</a> </li>
+                <li>/</li>
+                <li><a href="">Thông tin giao hàng </a></li>
+            </ul>
+        </div>
+        <div class="">
+
+
+            <div class="row bg-while">
+                <div class="col-md-7 form-infor-checkout">
+                    <h4 class="infor-delivery-label">Thông tin giao hàng</h4>
+
+                    <form asp-action="Index" asp-controller="MethodPayment" method="get" id="form-infor">
+                        <div class="input-group">
+                            <label for="fullname">Họ và tên</label>
+                            <input type="text" class="form-input-item" id="fullname" name="fullname" placeholder="Họ và tên"
+                                   required>
+                        </div>
+                        <div class="row">
+                            <div class="input-group col-md-6">
+                                <label for="email">Email</label>
+                                <input type="email" class="form-input-item" id="email" name="email" id="Email" required
+                                       onkeyup="checkErrorEmail()">
+                                <span id="error_email"></span>
+                            </div>
+                            <div class="input-group col-md-6">
+                                <label for="phone">Số điện thoại</label>
+                                <input type="number" class="form-input-item" id="phone" name="phone" placeholder="Số điện thoại"
+                                       onkeyup="checkErrorPhone()" required>
+                                <span id="error_phone"></span>
+                            </div>
+                        </div>
+                        <div class="input-group">
+                            <label for="address">Địa chỉ</label>
+                            <input type="text" class="form-input-item" id="address" name= "address" placeholder="Địa chỉ"
+                                   onkeyup="checkErrorAddress()"  required>
+
+                            <span id="error_address"></span>
+
+                        </div>
+
+                        <div class="note">
+                            <label for="content-notes" class="bold">Ghi chú đơn hàng</label>
+                            <textarea class="form-control" id="content-notes" rows="5" name= "note"
+                                      placeholder="Ghi chú đơn hàng..."></textarea>
+                        </div>
+
+                       
+                        <button type="button" class="btn-default"  id="btn-continue" onclick="goToMethodPayment()">
+                            Tiếp tục đến
+                            phương
+                            thức thanh toán
+                        </button>
+                    </form>
+                </div>
+
+
+                <div class="col-md-5 order-summary">
+                    <h4 class="bold">Giỏ hàng</h4>
+                    @foreach(var c in cart.carts.Values)
+                    {
+                        <div class="product-item">
+
+                            <img src="@c.Thumbnail" alt="Product Image">
+                            <span class="des-name">@c.Name</span>
+
+                            <span class="price">@c.PriceAfterDiscount() ₫</span>
+                            <p class="quality">@c.Quatity </p>
+
+                        </div>
+                    }
+
+                    <div class="discount">
+                        <label for="discount-code">Mã giảm giá</label>
+                        <div class="input-group">
+                            <input type="text" class="form-input-item" id="discount-code" placeholder="Mã giảm giá">
+
+                            <span id="status-code" style="color: red;margin-top: 0.7rem;padding-left: 0.2rem">
+                               </span>
+                            <button class="btn-default" type="button" onclick="checkVoucher()">Sử dụng</button>
+                        </div>
+                        @foreach(var v in vouchers)
+                        {
+                            <div class="voucher-card">
+                                <img src="./assets/images/favicons/discount.webp" alt="">
+                                <div class="content-voucher">
+                                    <p> Mã : <span class="bold">@v.Code</span></p>
+
+                                    <p>@v.Name </p>
+                                    <p>@v.Description</p>
+                                    <p>@v.EndDate</p>
+                                </div>
+                            </div>
+
+                        }
+
+                    </div>
+
+
+
+
+                    <div class="summary">
+                        <div class="summary-price">
+                            <span>Tạm tính</span>
+                            <span>@cart.TotalPriceCart() ₫</span>
+                        </div>
+                        <div class="summary-ship">
+                            <span>Giảm giá</span>
+                            <span id="discount-value">
+                                    0 đ
+                            </span>
+                        </div>
+                        <div class="summary-total">
+
+                            <span>Tổng cộng</span>
+                            <span class="price-detail"> @cart.TotalPriceCartAddFee() ₫</span>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+            <!-- footer  -->
+
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+
+
+
+     
+     function isValidTelephone(telephone){
+        return telephone.length>=8
+    }
+
+
+   
+
+
+    function checkErrorEmail() {
+        var email = document.getElementById("email");
+        var error_email = document.getElementById("error_email");
+        if (!email.checkValidity()) {
+
+            error_email.innerHTML = `<p style="color:red;margin-top :0.5rem"> Nhập đúng định dạng email </p>`;
+            return false;
+        } else {
+
+            error_email.innerHTML = "";
+         return true;
+
+        }
+    }
+
+    function checkErrorPhone() {
+        var phone = document.getElementById("phone");
+        var phone_email = document.getElementById("error_phone");
+
+        if (!isValidTelephone(phone.value)) {
+            phone_email.innerHTML = `<p style="color:red;margin-top :0.5rem">  Nhập số điện thoại trên 8 số </p>`;
+            return false;
+        } else {
+
+            phone_email.innerHTML = "";
+            return true;
+        }
+    }
+
+    function checkErrorAddress(){
+        var address = document.getElementById("address");
+        var err = document.getElementById("error_address");
+        if(address.value== ""){
+            err.innerHTML = `<p style="color:red;margin-top :0.5rem">  Vui lòng nhập địa chỉ </p>`;
+            return false;
+        }
+
+        err.innerHTML = "";
+        return true;
+    }
+
+
+    function goToMethodPayment() {
+        if (checkErrorEmail() && checkErrorPhone() && checkErrorAddress()) {
+            console.log("start")
+            document.getElementById("form-infor").submit();
+        }
+    }
+    function checkVoucher(){
+        var discountCode = $('#discount-code').val();
+    var error = $('#status-code');
+    var discountValue = $('#discount-value');
+    var priceTotal = $('.price-detail');
+
+    if (discountCode === '') {
+        error.text("Vui lòng nhập mã giảm giá");
+        return;
+    }
+
+    $.ajax({
+        url: '@Url.Action("CheckVoucher", "Voucher")',
+        type: 'GET',
+        data: { code: discountCode }, 
+        contentType: 'application/x-www-form-urlencoded',
+        success: function (data) {
+           
+            error.text(data.status);
+           
+                discountValue.text(
+                    new Intl.NumberFormat('vi-VN').format(data.discount) + " đ"
+                );
+                priceTotal.text(
+                    new Intl.NumberFormat('vi-VN').format(data.totalPrice) + " đ"
+                );
+            
+            
+        },
+        error: function (xhr, status, errorThrown) {
+           
+            console.error('Error:', errorThrown);
+            error.text("Có lỗi xảy ra khi xử lý mã giảm giá");
+        }
+    });
+
+    }
+
+</script>

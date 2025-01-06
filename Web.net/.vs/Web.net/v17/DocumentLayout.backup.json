@@ -1,0 +1,792 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\controllers\\infororder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\controllers\\infororder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\service\\sessionparseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\service\\sessionparseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\controllers\\methodpaymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\controllers\\methodpaymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\controllers\\vouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\controllers\\inforpaymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\controllers\\inforpaymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\views\\infororder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\infororder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\views\\inforpayment\\inforpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\inforpayment\\inforpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\views\\methodpayment\\methodpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\methodpayment\\methodpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\css\\pages\\infororder.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\css\\pages\\infororder.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\service\\voucherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\service\\voucherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\newtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\newtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\js\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\subcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\productview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\js\\check-valid.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\js\\check-valid.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\js\\check-valid-form-checkout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\js\\check-valid-form-checkout.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\js\\addcart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\js\\addcart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\js\\scriptadmin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\js\\scriptadmin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\js\\sliderbanner.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\js\\sliderbanner.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\js\\modal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\js\\modal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\js\\newfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\js\\newfile.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\js\\slidersearchpro.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\js\\slidersearchpro.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\js\\linkheader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\js\\linkheader.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\wwwroot\\assets\\images\\favicons\\favicon_logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\wwwroot\\assets\\images\\favicons\\favicon_logo.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\users\\asus\\source\\repos\\doan.net\\projectcuoiki\\web.net\\web.net\\web.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\web.net.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Product.cs",
+              "RelativeToolTip": "Web.net\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:04:24.492Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "cart.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\cart.js",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\js\\cart.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\cart.js",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\js\\cart.js",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T03:56:37.786Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\CartItem.cs",
+              "RelativeToolTip": "Web.net\\Models\\CartItem.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAxwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:14:15.897Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\Cart\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Web.net\\Views\\Cart\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\Cart\\Cart.cshtml",
+              "RelativeToolTip": "Web.net\\Views\\Cart\\Cart.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T02:49:13.244Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MethodPaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\MethodPaymentController.cs",
+              "RelativeDocumentMoniker": "Web.net\\Controllers\\MethodPaymentController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\MethodPaymentController.cs",
+              "RelativeToolTip": "Web.net\\Controllers\\MethodPaymentController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAIAwwEUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:46:26.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InforOrder.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\InforOrder.cs",
+              "RelativeDocumentMoniker": "Web.net\\Controllers\\InforOrder.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\InforOrder.cs",
+              "RelativeToolTip": "Web.net\\Controllers\\InforOrder.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T12:36:31.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web.net\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web.net\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:19:46.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionParseObject.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Service\\SessionParseObject.cs",
+              "RelativeDocumentMoniker": "Web.net\\Service\\SessionParseObject.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Service\\SessionParseObject.cs",
+              "RelativeToolTip": "Web.net\\Service\\SessionParseObject.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T11:24:11.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VoucherController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\VoucherController.cs",
+              "RelativeDocumentMoniker": "Web.net\\Controllers\\VoucherController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\VoucherController.cs",
+              "RelativeToolTip": "Web.net\\Controllers\\VoucherController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:33:12.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InforPaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\InforPaymentController.cs",
+              "RelativeDocumentMoniker": "Web.net\\Controllers\\InforPaymentController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\InforPaymentController.cs",
+              "RelativeToolTip": "Web.net\\Controllers\\InforPaymentController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T06:02:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\InforOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web.net\\Views\\InforOrder\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\InforOrder\\Index.cshtml",
+              "RelativeToolTip": "Web.net\\Views\\InforOrder\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T03:04:51.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InforPayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\InforPayment\\InforPayment.cshtml",
+              "RelativeDocumentMoniker": "Web.net\\Views\\InforPayment\\InforPayment.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\InforPayment\\InforPayment.cshtml",
+              "RelativeToolTip": "Web.net\\Views\\InforPayment\\InforPayment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T06:02:22.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Cart.cs",
+              "RelativeToolTip": "Web.net\\Models\\Cart.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:29:42.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MethodPayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\MethodPayment\\MethodPayment.cshtml",
+              "RelativeDocumentMoniker": "Web.net\\Views\\MethodPayment\\MethodPayment.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\MethodPayment\\MethodPayment.cshtml",
+              "RelativeToolTip": "Web.net\\Views\\MethodPayment\\MethodPayment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T07:46:41.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Web.net\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Web.net\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:47:39.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web.net\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web.net\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T13:55:20.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "inforOrder.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\inforOrder.css",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\css\\pages\\inforOrder.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\css\\pages\\inforOrder.css",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\css\\pages\\inforOrder.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-06T03:07:40.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Category.cs",
+              "RelativeToolTip": "Web.net\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:26:53.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Contact.cs",
+              "RelativeToolTip": "Web.net\\Models\\Contact.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:29:43.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VoucherService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Service\\VoucherService.cs",
+              "RelativeDocumentMoniker": "Web.net\\Service\\VoucherService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Service\\VoucherService.cs",
+              "RelativeToolTip": "Web.net\\Service\\VoucherService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAgwE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:59:39.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Order.cs",
+              "RelativeToolTip": "Web.net\\Models\\Order.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:01:12.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Voucher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Voucher.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\Voucher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Voucher.cs",
+              "RelativeToolTip": "Web.net\\Models\\Voucher.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAxwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:47:24.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Web.net\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Web.net\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T13:55:34.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web.net\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web.net\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACABAAAAAAAAAAAAACgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T14:01:40.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Web.net\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Web.net\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T10:28:11.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Service\\OrderService.cs",
+              "RelativeDocumentMoniker": "Web.net\\Service\\OrderService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Service\\OrderService.cs",
+              "RelativeToolTip": "Web.net\\Service\\OrderService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:34:36.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Web.net\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Web.net\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T10:12:36.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "Web.net\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Service\\ProductService.cs",
+              "RelativeToolTip": "Web.net\\Service\\ProductService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:27:46.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Program.cs",
+              "RelativeDocumentMoniker": "Web.net\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Program.cs",
+              "RelativeToolTip": "Web.net\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:38:18.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Newtype.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Newtype.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\Newtype.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Newtype.cs",
+              "RelativeToolTip": "Web.net\\Models\\Newtype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T16:02:24.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Web.net\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Web.net\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T09:16:46.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Subcategory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Subcategory.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\Subcategory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Subcategory.cs",
+              "RelativeToolTip": "Web.net\\Models\\Subcategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T07:29:47.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductView.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\ProductView.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\ProductView.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\ProductView.cs",
+              "RelativeToolTip": "Web.net\\Models\\ProductView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:26:57.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "check-valid-form-checkout.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\check-valid-form-checkout.js",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\js\\check-valid-form-checkout.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\check-valid-form-checkout.js",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\js\\check-valid-form-checkout.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T12:36:07.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "check-valid.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\check-valid.js",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\js\\check-valid.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\check-valid.js",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\js\\check-valid.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T12:36:03.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "newFile.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\newFile.js",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\js\\newFile.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\newFile.js",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\js\\newFile.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T12:36:19.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "sliderSearchPro.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\sliderSearchPro.js",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\js\\sliderSearchPro.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\sliderSearchPro.js",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\js\\sliderSearchPro.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T12:36:23.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "scriptAdmin.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\scriptAdmin.js",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\js\\scriptAdmin.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\scriptAdmin.js",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\js\\scriptAdmin.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T16:20:13.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "addcart.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\addcart.js",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\js\\addcart.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\addcart.js",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\js\\addcart.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T03:58:01.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "sliderBanner.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\sliderBanner.js",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\js\\sliderBanner.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\sliderBanner.js",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\js\\sliderBanner.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T12:36:21.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "modal.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\modal.js",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\js\\modal.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\modal.js",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\js\\modal.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T12:36:08.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "linkHeader.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\linkHeader.js",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\js\\linkHeader.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\js\\linkHeader.js",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\js\\linkHeader.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T12:36:09.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\Role.cs",
+              "RelativeToolTip": "Web.net\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:06:44.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Web.net\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T12:35:46.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "favicon_logo.png - PNG [250x250, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\favicons\\favicon_logo.png",
+              "RelativeDocumentMoniker": "Web.net\\wwwroot\\assets\\images\\favicons\\favicon_logo.png",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\wwwroot\\assets\\images\\favicons\\favicon_logo.png - PNG [250x250, 32 bit, PNG]",
+              "RelativeToolTip": "Web.net\\wwwroot\\assets\\images\\favicons\\favicon_logo.png - PNG [250x250, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-09T03:06:58.104Z",
+              "EditorCaption": " - PNG [250x250, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Web.net\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Web.net\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:26:54.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Web.net.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Web.net.csproj",
+              "RelativeDocumentMoniker": "Web.net\\Web.net.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\DoAn.Net\\ProjectCuoiKi\\Web.net\\Web.net\\Web.net.csproj",
+              "RelativeToolTip": "Web.net\\Web.net.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T14:15:28.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

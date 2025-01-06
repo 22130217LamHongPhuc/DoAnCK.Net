@@ -1,0 +1,162 @@
+﻿@using API.Net.Models
+@{
+    ViewData["Title"] = "Cart";
+    Cart cart = (Cart) ViewBag.Cart;
+    int size = cart == null ? 0 : cart.CartSize();
+}
+
+<div class="cotainerPage">
+
+    <div class="grid">
+
+        <nav>
+            <div class="breadcrumb">
+                <ul>
+                    <li><a href="">Trang chủ </a></li>
+
+                    <li>/</li>
+                    <li> <a href="">Giỏ hàng</a> </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="cart-content">
+            <div class="row">
+                <div class="col-md-8">
+                    <h2 class="cart-title">Giỏ hàng của bạn</h2>
+                    <p class="description-quality">Bạn đang có <strong id="cart-size">@cart.CartSize() sản phẩm</strong> trong giỏ hàng</p>
+
+                    @foreach(var c in cart.carts.Values)
+                    {
+                        <div class="product-item" data-quatity="@c.Quatity"
+                       
+                                                  data-product-id="@c.ProductID">
+                            <button class=" btn btn-remove" onclick="removeCartItem(this)">Xóa</button>
+                            <img src="@c.Thumbnail" alt="Product 1">
+                            <div class="product-details">
+                                <h5>@c.Name</h5>
+                                <div class="product-price">@c.PriceAfterDiscount() đ</div>
+                            </div>
+                            <div class="caculator_total">
+                                <div class="quantity-controls">
+                                    <button onclick="changeQuatityCartItem(this,false)">−</button>
+                                    <span class="quality-product">@c.Quatity</span>
+                                    <button onclick="changeQuatityCartItem(this,true)">+</button>
+                                </div>
+                                <div class="total-price">@c.TotalPriceCartItem() đ</div>
+                            </div>
+                        </div>
+                    }
+
+                    
+
+
+                </div>
+
+                <div class="col-md-4">
+                    <div class="order-summary">
+                        <h4 class="heading_infor">Thông tin đơn hàng</h4>
+                        <div class="des-total-price">
+                            <p>Tổng tiền:</p> <span class="total-price-checkout" id="id-total-price-checkout">@cart.TotalPriceCart() đ</span>
+                        </div>
+                        <div class="des-tip">
+                            <ul class="list-tip">
+                                <li>Phí vận chuyển sẽ được tính ở trang Thanh toán</li>
+                                <li>Mã giảm giá được nhập ở trang Thanh toán</li>
+                            </ul>
+
+                        </div>
+                        <button class="checkout-btn" onclick="goToInforPayment(@size)">THANH TOÁN</button>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+   <script>
+        function changeQuatityCartItem(button,isIncrement) {
+            
+
+            var quantityElement = $(button).siblings('span.quality-product');
+
+            var productItem = $(button).closest('.product-item');
+
+            var currentQuantity = parseInt(quantityElement.text());
+
+
+
+            var newQuantity = (isIncrement) ? ++currentQuantity : --currentQuantity;
+            if (newQuantity <= 0) return;
+
+            
+            $.ajax({
+                url: '@Url.Action("UpdateQuantity","Cart")',
+                type: 'POST',
+                data: {
+                    productId: productItem.data("product-id"),
+                    quatity: newQuantity
+                },
+                success: function (response) {
+                    if (response.success) {
+
+                        quantityElement.text(newQuantity+"");
+                        productItem.find('.total-price').text(response.totalpriceitem +"đ");
+
+            document.getElementById('id-total-price-checkout').innerText = response.totalpricecart+ " đ"
+
+                    } else {
+                        alert("Cập nhật số lượng thất bại!");
+                    }
+                },
+                error: function () {
+                    alert('Đã có lỗi xảy ra trong quá trình cập nhật!');
+                }
+            });
+        }
+
+       function removeCartItem(button) {
+            var productItem = $(button).closest('.product-item');
+
+            $.ajax({
+                url: '@Url.Action("RemoveCartItem", "Cart")',
+                type: 'DELETE',
+                data: {
+                    productId: productItem.data("product-id"),
+                },
+                success: function (response) {
+                    if (response.success) {
+                        
+                        productItem.remove();
+                        document.getElementById("cart-size").innerText = response.size + " sản phẩm";
+                        document.getElementById('id-total-price-checkout').innerText = response.totalpricecart + " đ"
+
+
+                    } else {
+
+                        alert("Cập nhật số lượng thất bại!");
+                    }
+                },
+                error: function () {
+                    alert('Đã có lỗi xảy ra trong quá trình cập nhật!');
+                }
+            });
+
+       }
+
+        function goToInforPayment(size) {
+           if(size ==0){
+               alert("vui lòng chọn thêm sản phẩm để thanh toán");
+               return;
+           }
+
+            window.location.href = '@Url.Action("Index","InforPayment")'
+        }
+        
+   </script>
+}

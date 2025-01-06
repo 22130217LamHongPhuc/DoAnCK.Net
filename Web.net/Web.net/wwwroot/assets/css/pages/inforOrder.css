@@ -1,0 +1,39 @@
+﻿body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 30px;
+}
+
+.header-title {
+    color: #4CAF50;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.status {
+    font-weight: bold;
+    color: #ff9800;
+}
+
+.footer {
+    font-style: italic;
+    text-align: center;
+    color: #6c757d;
+}
+
+.back-home {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+    .back-home i {
+        margin-right: 8px;
+    }
