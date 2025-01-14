@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\doan.net\\Web.net\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\service\\sessionparseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\service\\sessionparseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\cart\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,28 +27,12 @@
       "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\service\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\controllers\\infororder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\controllers\\infororder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\service\\sessionparseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|solutionrelative:web.net\\service\\sessionparseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14BB227E-B3B6-4DF3-ADF8-6CA783ED58C0}|Web.net\\Web.net.csproj|c:\\doan.net\\web.net\\web.net\\controllers\\methodpaymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -198,7 +198,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -241,17 +241,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Cart.cshtml",
               "DocumentMoniker": "C:\\doan.net\\Web.net\\Web.net\\Views\\Cart\\Cart.cshtml",
               "RelativeDocumentMoniker": "Web.net\\Views\\Cart\\Cart.cshtml",
               "ToolTip": "C:\\doan.net\\Web.net\\Web.net\\Views\\Cart\\Cart.cshtml",
               "RelativeToolTip": "Web.net\\Views\\Cart\\Cart.cshtml",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAAAIYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAswJMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-09T02:49:13.244Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -261,66 +260,50 @@
               "RelativeDocumentMoniker": "Web.net\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\doan.net\\Web.net\\Web.net\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Web.net\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T14:19:46.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T14:19:46.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\doan.net\\Web.net\\Web.net\\Service\\OrderService.cs",
               "RelativeDocumentMoniker": "Web.net\\Service\\OrderService.cs",
               "ToolTip": "C:\\doan.net\\Web.net\\Web.net\\Service\\OrderService.cs",
               "RelativeToolTip": "Web.net\\Service\\OrderService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T08:34:36.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T08:34:36.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\doan.net\\Web.net\\Web.net\\Program.cs",
-              "RelativeDocumentMoniker": "Web.net\\Program.cs",
-              "ToolTip": "C:\\doan.net\\Web.net\\Web.net\\Program.cs*",
-              "RelativeToolTip": "Web.net\\Program.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T14:38:18.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\doan.net\\Web.net\\Web.net\\Service\\ProductService.cs",
               "RelativeDocumentMoniker": "Web.net\\Service\\ProductService.cs",
               "ToolTip": "C:\\doan.net\\Web.net\\Web.net\\Service\\ProductService.cs",
               "RelativeToolTip": "Web.net\\Service\\ProductService.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAvwEYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T14:27:46.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\doan.net\\Web.net\\Web.net\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Web.net\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\doan.net\\Web.net\\Web.net\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "Web.net\\Views\\Home\\Index.cshtml*",
+              "ToolTip": "C:\\doan.net\\Web.net\\Web.net\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web.net\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABoBAAAAAAAAAAAAACEBAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T14:01:40.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T14:01:40.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "SessionParseObject.cs",
               "DocumentMoniker": "C:\\doan.net\\Web.net\\Web.net\\Service\\SessionParseObject.cs",
               "RelativeDocumentMoniker": "Web.net\\Service\\SessionParseObject.cs",
@@ -333,6 +316,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\doan.net\\Web.net\\Web.net\\Program.cs",
+              "RelativeDocumentMoniker": "Web.net\\Program.cs",
+              "ToolTip": "C:\\doan.net\\Web.net\\Web.net\\Program.cs",
+              "RelativeToolTip": "Web.net\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T14:38:18.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "InforOrder.cs",
               "DocumentMoniker": "C:\\doan.net\\Web.net\\Web.net\\Controllers\\InforOrder.cs",
               "RelativeDocumentMoniker": "Web.net\\Controllers\\InforOrder.cs",
@@ -340,8 +335,7 @@
               "RelativeToolTip": "Web.net\\Controllers\\InforOrder.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T12:36:31.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-05T12:36:31.889Z"
             },
             {
               "$type": "Document",

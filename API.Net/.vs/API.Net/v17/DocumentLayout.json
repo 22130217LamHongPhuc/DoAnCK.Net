@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\doan.net\\API.Net\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\ef\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\ef\\models\\dbtestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\ef\\models\\dbtestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\viewmodel\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\viewmodel\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\ef\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\ef\\models\\newtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\ef\\models\\newtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\ef\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\ef\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\ef\\models\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\ef\\models\\productreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\ef\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\ef\\models\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\ef\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\ef\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\ef\\models\\dbtestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\ef\\models\\dbtestcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\ef\\models\\voucher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|c:\\doan.net\\api.net\\api.net\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1581710B-3C77-4F05-9400-C275DC45BBD2}|API.Net\\API.Net.csproj|solutionrelative:api.net\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -70,11 +98,193 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\Product.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\Product.cs",
+              "RelativeToolTip": "API.Net\\EF\\Models\\Product.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:51:23.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\ViewModel\\UserModel.cs",
+              "RelativeDocumentMoniker": "API.Net\\ViewModel\\UserModel.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\ViewModel\\UserModel.cs",
+              "RelativeToolTip": "API.Net\\ViewModel\\UserModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:06:43.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductReview.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\ProductReview.cs",
+              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\ProductReview.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\ProductReview.cs",
+              "RelativeToolTip": "API.Net\\EF\\Models\\ProductReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:46:53.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Newtype.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\Newtype.cs",
+              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\Newtype.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\Newtype.cs",
+              "RelativeToolTip": "API.Net\\EF\\Models\\Newtype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:46:49.319Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\OrderStatus.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\OrderStatus.cs",
+              "RelativeToolTip": "API.Net\\EF\\Models\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:46:47.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\User.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\User.cs",
+              "RelativeToolTip": "API.Net\\EF\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:46:14.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API.Net\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API.Net\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T04:45:07.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbtestContext.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\DbtestContext.cs",
+              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\DbtestContext.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\DbtestContext.cs",
+              "RelativeToolTip": "API.Net\\EF\\Models\\DbtestContext.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA8wDgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:19:06.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API.Net\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API.Net\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAQwF8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:41:13.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\Role.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\Role.cs",
+              "RelativeToolTip": "API.Net\\EF\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:46:57.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "API.Net\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "API.Net\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:44:07.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderDetailModel.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\ViewModel\\OrderDetailModel.cs",
+              "RelativeDocumentMoniker": "API.Net\\ViewModel\\OrderDetailModel.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\ViewModel\\OrderDetailModel.cs",
+              "RelativeToolTip": "API.Net\\ViewModel\\OrderDetailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:20:53.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\Order.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\Order.cs",
+              "RelativeToolTip": "API.Net\\EF\\Models\\Order.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T08:21:11.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\ViewModel\\OrderModel.cs",
+              "RelativeDocumentMoniker": "API.Net\\ViewModel\\OrderModel.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\ViewModel\\OrderModel.cs",
+              "RelativeToolTip": "API.Net\\ViewModel\\OrderModel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:19:36.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "API.Net\\EF\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:21:08.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "API.Net",
               "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\API.Net.csproj",
               "RelativeDocumentMoniker": "API.Net\\API.Net.csproj",
@@ -85,97 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "API.Net\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "API.Net\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T09:44:07.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "API.Net\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "API.Net\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T04:45:07.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DbtestContext.cs",
-              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\DbtestContext.cs",
-              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\DbtestContext.cs",
-              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\DbtestContext.cs",
-              "RelativeToolTip": "API.Net\\EF\\Models\\DbtestContext.cs",
-              "ViewState": "AgIAAPMAAAAAAAAAAADgv54BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T08:19:06.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderDetailModel.cs",
-              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\ViewModel\\OrderDetailModel.cs",
-              "RelativeDocumentMoniker": "API.Net\\ViewModel\\OrderDetailModel.cs",
-              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\ViewModel\\OrderDetailModel.cs",
-              "RelativeToolTip": "API.Net\\ViewModel\\OrderDetailModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:20:53.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\Order.cs",
-              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\Order.cs",
-              "RelativeToolTip": "API.Net\\EF\\Models\\Order.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T08:21:11.366Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderModel.cs",
-              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\ViewModel\\OrderModel.cs",
-              "RelativeDocumentMoniker": "API.Net\\ViewModel\\OrderModel.cs",
-              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\ViewModel\\OrderModel.cs",
-              "RelativeToolTip": "API.Net\\ViewModel\\OrderModel.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwBkAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:19:36.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "API.Net\\EF\\Models\\OrderDetail.cs",
-              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\OrderDetail.cs",
-              "RelativeToolTip": "API.Net\\EF\\Models\\OrderDetail.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:21:08.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "VoucherController.cs",
               "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\VoucherController.cs",
               "RelativeDocumentMoniker": "API.Net\\Controllers\\VoucherController.cs",
@@ -187,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "Voucher.cs",
               "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\EF\\Models\\Voucher.cs",
               "RelativeDocumentMoniker": "API.Net\\EF\\Models\\Voucher.cs",
@@ -199,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "API.Net\\WeatherForecast.cs",
@@ -211,19 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "API.Net\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\UserController.cs",
-              "RelativeToolTip": "API.Net\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T05:41:13.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "API.Net\\Controllers\\WeatherForecastController.cs",
@@ -235,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\Program.cs",
               "RelativeDocumentMoniker": "API.Net\\Program.cs",
@@ -247,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "API.Net.csproj",
               "DocumentMoniker": "C:\\doan.net\\API.Net\\API.Net\\API.Net.csproj",
               "RelativeDocumentMoniker": "API.Net\\API.Net.csproj",
